@@ -118,6 +118,9 @@ This will generate the selected plots (saved in `output/`) and print insights to
 >Code is modular; data loading, insights, and plotting are separated for clarity and maintainability. <br>
 >Dataset is synthetic and intended for demonstration and educational purposes. <br>
 
+## Author
+Mayank Raj (devempowerjs) | Student Innovator • Data Science Enthusiast • Eureka! Junior Asia Finalist (2025) • Building Real-World, Data Driven Projects
+
 ## Source and Attribution
 
 [Synthetic Car Sales Dataset over Million records](https://www.kaggle.com/datasets/jayavarman/synthetic-car-sales-dataset-over-million-records) dataset from Kaggle.
