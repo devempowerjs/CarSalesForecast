@@ -118,8 +118,11 @@ This will generate the selected plots (saved in `output/`) and print insights to
 >Code is modular; data loading, insights, and plotting are separated for clarity and maintainability. <br>
 >Dataset is synthetic and intended for demonstration and educational purposes. <br>
 
-## Author
-Mayank Raj (devempowerjs) | Student Innovator • Data Science Enthusiast • Eureka! Junior Asia Finalist (2025) • Building Real-World, Data Driven Projects
+## Author  
+
+Mayank Raj (devempowerjs)
+
+Building Software That Matters • Problem Solver • Open Source
 
 ## Source and Attribution
 
